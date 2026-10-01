@@ -5,15 +5,8 @@
 # Hi, I'm Aayurt Shrestha 👋
 
 <p align="center">
-  <img src="assets/preview.png" alt="Aayurt Shrestha" width="150" style="border-radius: 50%; animation: float 3s ease-in-out infinite;" />
+  <img src="assets/preview.png" alt="Aayurt Shrestha" width="150" style="border-radius: 50%;" />
 </p>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-}
-</style>
 
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 120" style="background-color: #00000000;" width="100%" height="120px" preserveAspectRatio="xMidYMid meet">
