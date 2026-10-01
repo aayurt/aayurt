@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="assets/preview.png" alt="Aayurt Shrestha" width="100%" />
+</p>
+
 # Hi, I'm Aayurt Shrestha 👋
+
+<p align="center">
+  <img src="assets/1680952448174.jpeg" alt="Aayurt Shrestha" width="150" style="border-radius: 50%;" />
+</p>
 
 **Full-stack & AI Systems Engineer** building software, developer tools, and agentic systems.
 
